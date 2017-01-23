@@ -1,0 +1,12 @@
+main: com.rayzr522.chunkfixer.ChunkFixer
+name: ChunkFixer
+version: 1.0.0
+description: Fixes a problem with loaded chunks.
+authors: [Perceive team]
+#depend: [PerceiveCore]
+#commands:
+#  chunkfixer:
+#    description: ChunkFixer main command
+#    aliases: [alias1,alias2]
+#    usage: "/chunkfixer [command]"
+#    permission: ChunkFixer.main
